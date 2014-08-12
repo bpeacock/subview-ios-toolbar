@@ -1,0 +1,16 @@
+{
+  "name": "subview-ios-toolbar",
+  "description": "A Slider Subview",
+  "version": "0.0.0",
+  "author": "Brian Peacock",
+  "main": "Toolbar.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "subview": "0.2.x"
+  },
+  "license": "MIT",
+  "keywords": []
+}
